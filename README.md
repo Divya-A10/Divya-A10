@@ -2,7 +2,7 @@
 I’m interested in DSA and AI
 - 🌱 I’m currently learning python and java
 - still a beginner and active learner
-- 📫 How to reach me-22311a66e6@aiml.sreenidhi.edu.in
+- 📫 How to reach me - 22311a66e6@aiml.sreenidhi.edu.in
 
 <!---
 Divya-A10/Divya-A10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

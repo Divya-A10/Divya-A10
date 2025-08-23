@@ -1,6 +1,8 @@
 # 💫 About Me:
  🫡 Hi, I’m @Divya-A10<br> 💻  I'm currently working on microplastic tracking and degradation and I've been a part of the rich open source community for a while now, and looking for ways to give back.I try to contribute as much as I can.<br>A a SSOC'2025 contributor I'm contributing SortVision a sorting visualizer<br>🌱 I'm currently learning Ruby and DSA<br>🧚🏻After I am done doing justice to my love for engineering and open source during the day, you will usually find me watching (or re-watching) Disney movies at night.<br>📫 How to reach me - divyastansbts13@gmail.com (yes she stans bts).<br>🎸still a beginner and active learner
 
+ ![snake gif](https://github.com/Divya-A10/Divya-A10/blob/output/github-snake-dark.svg)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mapofdivya/?igsh=MXd1NXllaG1pNjBvZQ%3D%3D&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/avanigadda-saidivyasree/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:divyastansbts13@gmail.com) 
@@ -17,6 +19,9 @@
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/divyaa10) 
+
+
+
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

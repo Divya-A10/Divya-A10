@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🫡 Hi, I’m @Divya-A10<br> 💻  I'm currently working on microplastic tracking and degradation and I've been a part of the rich open source community for a while now, and looking for ways to give back.I try to contribute as much as I can.<br>A a SSOC'2025 contributor I'm contributing SortVision a sorting visualizer<br>🌱 I'm currently learning Ruby and DSA<br>🧚🏻After I am done doing justice to my love for engineering and open source during the day, you will usually find me watching (or re-watching) Disney movies at night.<br>📫 How to reach me - divyastansbts13@gmail.com (yes she stans bts).<br>🎸still a beginner and active learner
+ 🫡 Hi, I’m @Divya-A10<br> 💻  I'm currently working on microplastic tracking and degradation and I've been a part of the rich open source community for a while now, and looking for ways to give back.I try to contribute as much as I can.<br>A a SSOC'2025 contributor I'm contributing SortVision a sorting visualizer<br>🌱 I'm currently learning Ruby and DSA<br>.<br>📫 How to reach me - divyastansbts13@gmail.com (yes she stans bts).<br>🎸still a beginner and active learner
 
  ![snake gif](https://github.com/Divya-A10/Divya-A10/blob/output/github-snake-dark.svg)
 

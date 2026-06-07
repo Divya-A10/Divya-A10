@@ -6,14 +6,14 @@ o-''|\_____/).  ( o.o )       ( -.- )      ( ^_^ )     o-''|\_____/).    ( ^_^ )
     \  __  /                                              \  __  /         /   \
     (_/ (_/                                               (_/ (_/        (___|___)
 
-```text
+
 - final yr comp sci with major in AI/ML
 - Exploring the intersection of AI, scientific computing, and environmental sustainability
 – Working on marine microplastic transport and degradation modeling with ML
 - Active in open source communities
 ```
 ```markdown
-```text
+
 Fun facts :
 — Graduating soon with a degree in Computer Science and AI/ML.
 — Organizational freak.

@@ -5,7 +5,7 @@ o-''|\_____/).  ( o.o )       ( -.- )      ( ^_^ )     o-''|\_____/).    ( ^_^ )
  \_/|_)     )    > ^ <         > * <        >💖<         \_/|_)     )     / >🌸< \
     \  __  /                                              \  __  /         /   \
     (_/ (_/                                               (_/ (_/        (___|___)
-```
+
 ```text
 - final yr comp sci with major in AI/ML
 - Exploring the intersection of AI, scientific computing, and environmental sustainability
@@ -21,7 +21,7 @@ Fun facts :
 — Most of my best ideas (and code) come from cafés.
 — Open to opportunities in NYC, SF, India, or remote.
 - when I'm done with problem solving and quenching my thirst for enginnering, you can probably find me (only via positive thoughts and carrier pigeons) you might find me probably watching Disney movies
----
+```
 ```
 know more about me at https://divya-dream-forge.lovable.app
 divystasbts13@gmail.com (yes she stans BTS)

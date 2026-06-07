@@ -22,6 +22,8 @@ Fun facts :
 — Open to opportunities in NYC, SF, India, or remote.
 - when I'm done with problem solving and quenching my thirst for enginnering, you can probably find me (only via positive thoughts and carrier pigeons) you might find me probably watching Disney movies
 ```
-```
-know more about me at https://divya-dream-forge.lovable.app
-divystasbts13@gmail.com (yes she stans BTS)
+
+<a href="https://divya-dream-forge.lovable.app/">
+  Know more about me
+</a>
+<a href= divystasbts13@gmail.com (yes she stans BTS) </a>

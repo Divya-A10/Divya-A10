@@ -1,3 +1,4 @@
+```markdown
 ```
    __            /\_/\         /\_/\        /\_/\         __             (\__/)
 o-''|\_____/).  ( o.o )       ( -.- )      ( ^_^ )     o-''|\_____/).    ( ^_^ )
@@ -5,7 +6,6 @@ o-''|\_____/).  ( o.o )       ( -.- )      ( ^_^ )     o-''|\_____/).    ( ^_^ )
     \  __  /                                              \  __  /         /   \
     (_/ (_/                                               (_/ (_/        (___|___)
 ```
-```markdown
 ```text
 - final yr comp sci with major in AI/ML
 - Exploring the intersection of AI, scientific computing, and environmental sustainability

@@ -13,6 +13,11 @@ o-''|\_____/).  ( o.o )       ( -.- )      ( ^_^ )     o-''|\_____/).    ( ^_^ )
 - Active in open source communities
 ```
 ```markdown
+![](https://komarev.com/ghpvc/?username=Divya-A10&color=blue)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Divya-A10&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Divya-A10&layout=compact)
 
 Fun facts :
 — Graduating soon with a degree in Computer Science and AI/ML.

@@ -24,7 +24,8 @@ Fun facts :
 ```
 
 <a href="https://divya-dream-forge.lovable.app/">
-  Know more about me
+  know more about me
 </a>
 <a href= divystasbts13@gmail.com (yes she stans BTS)> 
+   email
 </a>

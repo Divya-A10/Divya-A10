@@ -1,28 +1,27 @@
-<img width="736" height="668" alt="ASCII star" src="https://github.com/user-attachments/assets/c2352d67-731a-42eb-bf0d-0b7f37f2c206" />
-
-                                                                       
-                                                                       
-                                                                       
-                                                                       
-                                                                       
-                                                                       
-                                                                       
-                                                                       
-                                                                       
-                                                                       
-
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mapofdivya/?igsh=MXd1NXllaG1pNjBvZQ%3D%3D&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/avanigadda-saidivyasree/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:divyastansbts13@gmail.com) 
-
-
-
-  ## ☕️
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/divyaa10) 
-
-
-
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```
+   __            /\_/\         /\_/\        /\_/\         __             (\__/)
+o-''|\_____/).  ( o.o )       ( -.- )      ( ^_^ )     o-''|\_____/).    ( ^_^ )
+ \_/|_)     )    > ^ <         > * <        >💖<         \_/|_)     )     / >🌸< \
+    \  __  /                                              \  __  /         /   \
+    (_/ (_/                                               (_/ (_/        (___|___)
+```
+```markdown
+```text
+- final yr comp sci with major in AI/ML
+- Exploring the intersection of AI, scientific computing, and environmental sustainability
+– Working on marine microplastic transport and degradation modeling with ML
+- Active in open source communities
+```
+```markdown
+```text
+Fun facts :
+— Graduating soon with a degree in Computer Science and AI/ML.
+— Organizational freak.
+— Currently obsessed with eval pipelines, small models, and reliable AI systems.
+— Most of my best ideas (and code) come from cafés.
+— Open to opportunities in NYC, SF, India, or remote.
+- when I'm done with problem solving and quenching my thirst for enginnering, you can probably find me (only via positive thoughts and carrier pigeons) you might find me probably watching Disney movies
+---
+```
+know more about me at https://divya-dream-forge.lovable.app
+divystasbts13@gmail.com (yes she stans BTS)

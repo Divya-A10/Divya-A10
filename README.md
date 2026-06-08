@@ -12,12 +12,11 @@ o-''|\_____/).  ( o.o )       ( -.- )      ( ^_^ )     o-''|\_____/).    ( ^_^ )
 – Working on marine microplastic transport and degradation modeling with ML
 - Active in open source communities
 ```
-```markdown
+
 ![](https://komarev.com/ghpvc/?username=Divya-A10&color=blue)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Divya-A10&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Divya-A10&layout=compact)
+```markdown
 
 Fun facts :
 — Graduating soon with a degree in Computer Science and AI/ML.
@@ -26,10 +25,15 @@ Fun facts :
 — Most of my best ideas (and code) come from cafés.
 — Open to opportunities in NYC, SF, India, or remote.
 - when I'm done with problem solving and quenching my thirst for enginnering, you can probably find me (only via positive thoughts and carrier pigeons) you might find me probably watching Disney movies
+
 ```
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Divya-A10)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Divya-A10)
+
 
 <a href="https://divya-dream-forge.lovable.app/">
-  know more about me
+  know more about me 
 </a>
 
-<a href= divystasbts13@gmail.com(yes she stans BTS)> email </a>
+<a href="mailto:divystasbts13@gmail.com">divystasbts13@gmail.com</a>

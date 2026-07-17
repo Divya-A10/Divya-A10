@@ -32,7 +32,7 @@ Fun facts :
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Divya-A10)
 
 
-<a href="https://divya-dream-forge.lovable.app/">
+<a href="[https://divya-dream-forge.lovable.app/](https://divya-dev.lovable.app)">
   know more about me 
 </a>
 

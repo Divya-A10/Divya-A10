@@ -32,8 +32,8 @@ Fun facts :
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Divya-A10)
 
 
-<a href="[https://divya-dream-forge.lovable.app/](https://divya-dev.lovable.app)">
-  know more about me 
+<a href="https://divya-dev.lovable.app" target="_blank" rel="noopener noreferrer">
+  Know more about me
 </a>
 
 <a href="mailto:divystasbts13@gmail.com">divystasbts13@gmail.com</a>

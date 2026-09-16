@@ -27,7 +27,6 @@ Fun facts :
 - when I'm done with problem solving and quenching my thirst for enginnering, you can probably find me (only via positive thoughts and carrier pigeons) you might find me probably watching Disney movies
 
 ```
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Divya-A10)
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Divya-A10)
 
